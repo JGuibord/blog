@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+		<title>EN</title>
+	</head>
+
+	<!-- HEADER / FOOTER -->
+	<script src="/pagefiles/en/insert_en.js"></script>
+
+	<head2></head2>
+
+	<body class="smoothscroll enable-animation">
+
+		<!-- wrapper -->
+		<div id="wrapper">
+
+			<header></header>
+
+
+				<!-- HTML CODE GOES HERE, MY DEAR J.G. FROM THE FUTURE. . . -->
+				<!-- Remember that you are stuck in the MATRIX, Neo. . . -->
+
+
+			<footer></footer>
+
+		</div>
+		<!-- /wrapper -->
+
+		<!-- SCROLL TO TOP -->
+		<a href="#" id="toTop"></a>
+
+		<!-- PRELOADER -->
+		<div id="preloader">
+			<div class="inner">
+				<span class="loader"></span>
+			</div>
+		</div><!-- /PRELOADER -->
+
+		<!-- JAVASCRIPT FILES -->
+		<script>var plugin_path = '/assets/plugins/';</script>
+		<script src="/assets/plugins/jquery/jquery-3.3.1.min.js"></script>
+
+		<script src="/assets/js/scripts.js"></script>
+
+		<!-- PAGELEVEL SCRIPTS -->
+		<script src="/assets/js/contact.js"></script>
+	
+	</body>
+</html>
