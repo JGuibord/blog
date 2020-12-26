@@ -3,7 +3,7 @@ fetch("/pagefiles/links.html")
     return response.text()
   })
   .then(data => {
-    document.querySelector("head2").innerHTML = data;
+    document.querySelector("head").innerHTML = data;
   });
 
 fetch("/pagefiles/en/header.html")

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<title>EN - X</title>
+
+<html lang="en">
+
+	<!-- HEADER / FOOTER -->
+	<script src="/pagefiles/en/insert_en.js"></script>
+
+	<custom-links></custom-links>
+
+	<body class="smoothscroll enable-animation">
+
+		<!-- wrapper -->
+		<div id="wrapper">
+
+			<header></header>
+
+
+				<!-- HTML CODE GOES HERE, MY DEAR J.G. FROM THE FUTURE. . . -->
+				<!-- Remember that you are stuck in the MATRIX, Neo. . . -->
+
+
+			<footer></footer>
+
+		</div>
+		<!-- /wrapper -->
+
+		<page-scripts>
+		</page-scripts>
+	
+	</body>
+</html>
